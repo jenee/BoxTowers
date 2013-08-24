@@ -1,3 +1,7 @@
+=========
+BoxTowers
+=========
+
 Solving InterviewStreet Problem: Box Towers
 
 From: https://box.interviewstreet.com/challenges/dashboard/#problem/4f3c491b4a54c
@@ -20,6 +24,7 @@ Possible Approach 1:
 Rotation strategy:
 
 make it so that 2x4 and 4x2 will stack on top of eachother.
+
 
 
 
